@@ -1,5 +1,3 @@
-import React from "react";
-
 const choice = (items) => {
     let numOfItems = items.length;
     let randomIndex = Math.floor(Math.random() * numOfItems);
